@@ -1,2 +1,2 @@
-# wordle-good-copy
+# A SIMPLE WORDLE GAME!
 Created with CodeSandbox
